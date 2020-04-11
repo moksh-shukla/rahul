@@ -24,12 +24,12 @@ subtitle = ""
   order = "desc"
 
   # Filter posts by a taxonomy term.
-  [content.filters]
-    tag = ""
-    category = ""
-    publication_type = ""
-    author = ""
-    exclude_featured = false
+ # [content.filters]
+  #  tag = ""
+  #  category = ""
+  #  publication_type = ""
+  # author = ""
+   # exclude_featured = false
   
 [design]
   # Toggle between the various page layout types.
@@ -70,3 +70,38 @@ subtitle = ""
 {{% alert note %}}
 Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
 {{% /alert %}}
+---
+- B. Chandra, R. Mangal, D. Das and V. Shankar, ''Instability Driven by shear thinning and elasticity in the flow of concentrated polymer solutions through microtubes", Phys. Rev. Fluids 4, 083301 (2019). Link
+
+
+- P. Nath, R. Mangal, F. F. Kohle, S. Chodhury, S. Narayanan, U. B. Wiesner and L. A. Archer, '' Dynamics of nanoparticles in entangled polymer solutions", Langmuir 34(1), (2017). Link
+
+
+- R. Mangal, N. Karthik, Y. K. Kim, E. Bukusoglu, U. M. Cordova-Figuerora and N. L. Abbott, '' Active Janus Particles at Interfaces of Liquid Crystals", Langmuir 33 (41), (2017). Link
+
+
+- R. Mangal, S. Srivastava, and L. A. Archer, '' Phase stability and dynamics of entangled polymer nanoparticle composites", Nature Communications 32 (2), (2016). Link
+
+
+- S. Chodhury, R. Mangal, A. Agrawal and L. A. Archer , '' A highly reversible room-temperature lithium metal battery based on crosslinked hairy nanoparticles,'' Nature Communications 6, 10105 (2015). Link
+
+
+- R. Mangal, S. Srivastava, S. Narayanan and L. A. Archer, '' Size-Dependent Particle Dynamics in Entangled Polymer Nanocomposites ", Langmuir 6, 7198 (2015). Link
+
+
+- R. Mangal, , Y. H. Wen, S. Chodhury and L. A. Archer, '' Multiscale Dynamics of Polymers in Particle-Rich Nanocomposites ", Macromolecules 49 (14), (2016). Link
+
+
+- R. Mangal, , P. Nath, M. Tikekar, and L. A. Archer, '' Enthalpy-Driven Stabilization of Dispersions of Polymer-Grafted Nanoparticles in High-Molecular-Weight Polymer Melts ", Macromolecules 32 (41), (2016). Link
+
+
+- S. Srivastava, P. Agarwal, R. Mangal, D. L. Koch, S. Narayanan and L. A. Archer, '' Hyperdiffusive Dynamics in Newtonian Nanoparticle Fluids ", Macroletters 4 (10) (2015). Link
+
+
+- S. Kim, R. Mangal, and L. A. Archer, '' Relaxation Dynamics of Nanoparticle-Tethered Polymer Chains ", Macromolecules 48 (17) (2015). Link
+
+
+- S. Patil, R. Mangal, A. Malasi and A. Sharma, '' Biomimetic Wet Adhesion of Viscoelastic Liquid Films Anchored on Micropatterned Elastic Substrates ", Langmuir 28 (41) (2012). Link
+
+
+---
