@@ -69,40 +69,38 @@ subtitle = ""
 
 
 ---
-- B. Chandra, R. Mangal, D. Das and V. Shankar, ''Instability Driven by shear thinning and elasticity in the flow of concentrated polymer solutions through microtubes", Phys. Rev. Fluids 4, 083301 (2019). 
-[[pages]]
-name = "Link"
-url = "https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.4.083301" 
+- B. Chandra, R. Mangal, D. Das and V. Shankar, ''Instability Driven by shear thinning and elasticity in the flow of concentrated polymer solutions through microtubes", Phys. Rev. Fluids 4, 083301 (2019). [Link](https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.4.083301)
 
 
-- P. Nath, R. Mangal, F. F. Kohle, S. Chodhury, S. Narayanan, U. B. Wiesner and L. A. Archer, '' Dynamics of nanoparticles in entangled polymer solutions", Langmuir 34(1), (2017).[I'm a link](https://www.google.com)
+- P. Nath, R. Mangal, F. F. Kohle, S. Chodhury, S. Narayanan, U. B. Wiesner and L. A. Archer, '' Dynamics of nanoparticles in entangled polymer solutions", Langmuir 34(1), (2017).[Link](http://pubs.acs.org/doi/abs/10.1021/acs.langmuir.7b03418)
 
 
-- R. Mangal, N. Karthik, Y. K. Kim, E. Bukusoglu, U. M. Cordova-Figuerora and N. L. Abbott, '' Active Janus Particles at Interfaces of Liquid Crystals", Langmuir 33 (41), (2017). Link
+- R. Mangal, N. Karthik, Y. K. Kim, E. Bukusoglu, U. M. Cordova-Figuerora and N. L. Abbott, '' Active Janus Particles at Interfaces of Liquid Crystals", Langmuir 33 (41), (2017). [Link](http://pubs.acs.org/doi/abs/10.1021/acs.langmuir.7b02246)
 
 
-- R. Mangal, S. Srivastava, and L. A. Archer, '' Phase stability and dynamics of entangled polymer nanoparticle composites", Nature Communications 32 (2), (2016). Link
+- R. Mangal, S. Srivastava, and L. A. Archer, '' Phase stability and dynamics of entangled polymer nanoparticle composites", Nature Communications 32 (2), (2016).[Link](http://pubs.acs.org/doi/abs/10.1021/acs.langmuir.5b03311/)
 
 
-- S. Chodhury, R. Mangal, A. Agrawal and L. A. Archer , '' A highly reversible room-temperature lithium metal battery based on crosslinked hairy nanoparticles,'' Nature Communications 6, 10105 (2015). Link
+- S. Chodhury, R. Mangal, A. Agrawal and L. A. Archer , '' A highly reversible room-temperature lithium metal battery based on crosslinked hairy nanoparticles,'' Nature Communications 6, 10105 (2015). [Link](https://www.nature.com/articles/ncomms10101/fig_tab)
 
 
-- R. Mangal, S. Srivastava, S. Narayanan and L. A. Archer, '' Size-Dependent Particle Dynamics in Entangled Polymer Nanocomposites ", Langmuir 6, 7198 (2015). Link
+- R. Mangal, S. Srivastava, S. Narayanan and L. A. Archer, '' Size-Dependent Particle Dynamics in Entangled Polymer Nanocomposites ", Langmuir 6, 7198 (2015). [Link](https://www.nature.com/articles/ncomms8198?WT.feed_name=subjects_nanocomposites/)
 
 
-- R. Mangal, , Y. H. Wen, S. Chodhury and L. A. Archer, '' Multiscale Dynamics of Polymers in Particle-Rich Nanocomposites ", Macromolecules 49 (14), (2016). Link
+- R. Mangal, , Y. H. Wen, S. Chodhury and L. A. Archer, '' Multiscale Dynamics of Polymers in Particle-Rich Nanocomposites ", Macromolecules 49 (14), (2016). [Link](http://pubs.acs.org/doi/abs/10.1021/acs.macromol.6b00496/)
 
 
-- R. Mangal, , P. Nath, M. Tikekar, and L. A. Archer, '' Enthalpy-Driven Stabilization of Dispersions of Polymer-Grafted Nanoparticles in High-Molecular-Weight Polymer Melts ", Macromolecules 32 (41), (2016). Link
+- R. Mangal, , P. Nath, M. Tikekar, and L. A. Archer, '' Enthalpy-Driven Stabilization of Dispersions of Polymer-Grafted Nanoparticles in High-Molecular-Weight Polymer Melts ", Macromolecules 32 (41), (2016). [Link](http://pubs.acs.org/doi/abs/10.1021/acs.langmuir.6b02613/)
 
 
-- S. Srivastava, P. Agarwal, R. Mangal, D. L. Koch, S. Narayanan and L. A. Archer, '' Hyperdiffusive Dynamics in Newtonian Nanoparticle Fluids ", Macroletters 4 (10) (2015). Link
+- S. Srivastava, P. Agarwal, R. Mangal, D. L. Koch, S. Narayanan and L. A. Archer, '' Hyperdiffusive Dynamics in Newtonian Nanoparticle Fluids ", Macroletters 4 (10) (2015). [Link](http://pubs.acs.org/doi/abs/10.1021/acsmacrolett.5b00319/)
 
 
-- S. Kim, R. Mangal, and L. A. Archer, '' Relaxation Dynamics of Nanoparticle-Tethered Polymer Chains ", Macromolecules 48 (17) (2015). Link
+- S. Kim, R. Mangal, and L. A. Archer, '' Relaxation Dynamics of Nanoparticle-Tethered Polymer Chains ", Macromolecules 48 (17) (2015). [Link](http://pubs.acs.org/doi/abs/10.1021/acs.macromol.5b00791/)
 
 
-- S. Patil, R. Mangal, A. Malasi and A. Sharma, '' Biomimetic Wet Adhesion of Viscoelastic Liquid Films Anchored on Micropatterned Elastic Substrates ", Langmuir 28 (41) (2012). Link
+- S. Patil, R. Mangal, A. Malasi and A. Sharma, '' Biomimetic Wet Adhesion of Viscoelastic Liquid Films Anchored on Micropatterned Elastic Substrates ", Langmuir 28 (41) (2012). [Link](https://pubs.acs.org/doi/abs/10.1021/la302460y)
+
 
 
 ---
