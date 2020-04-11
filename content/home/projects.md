@@ -75,5 +75,12 @@ subtitle = ""
  css_class = ""
 +++
 ---
-Hello World
+Active Colloids and Emulsions
+
+Active particles or emulsions are capable of harnessing energy from their surroundings and drive themselves out of thermodynamic equilibrium. Consequently, unlike Brownian particles, where equilibrium thermal fluctuations leads to random motion, artificial active colloids offer more control over the dynamics of particles and feature various novel transport and self-assembly behaviors. In our group, we are currently endeavoring into investigating several unexplored fundamental questions pertaining to their motion through Single Particle Tracking experiments.
+
+
+Impact of Shock Waves on the Structure and Dynamics of Polymer Nano-composites (PNCs)
+
+Addition of nano-particles (NPs) to polymer hosts is a well-practiced method for augmenting various properties of the host, including mechanical strength, thermal stability, barrier properties, and wear resistance. Hence, lately there has been an active interest in using PNCs as shock mitigater for protective equipments in case of a bomb explosion. In this work we are experimentally investigating the impact of shock waves on the fundamental physical properties of PNCs. Our long term goal is to design a nano-composite material offering best resistance to shock waves.
 ---
