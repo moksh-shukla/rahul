@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Ravindra Jangid_
+name: Ravindra Jangid
 
 # Username (this should match the folder name)
 authors:
