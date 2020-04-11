@@ -67,9 +67,7 @@ subtitle = ""
  css_class = ""
 +++
 
-{{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}}
+
 ---
 - B. Chandra, R. Mangal, D. Das and V. Shankar, ''Instability Driven by shear thinning and elasticity in the flow of concentrated polymer solutions through microtubes", Phys. Rev. Fluids 4, 083301 (2019). Link
 
