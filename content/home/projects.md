@@ -26,12 +26,12 @@ subtitle = ""
      tag = "*"
   
    [[content.filter_button]]
-     name = "Active Colloids and Emulsions"
-     tag = "Active Colloids and Emulsions"
+     name = "Ongoing Projects"
+     tag = "Ongoing Projects"
   
    [[content.filter_button]]
-     name = "Impact of Shock Waves on the Structure and Dynamics of Polymer Nano-composites (PNCs)"
-     tag = "Impact of Shock Waves on the Structure and Dynamics of Polymer Nano-composites (PNCs)"
+     name = "Research"
+     tag = "Research"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
