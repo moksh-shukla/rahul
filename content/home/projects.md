@@ -11,7 +11,7 @@ subtitle = ""
 [content]
   # Page type to display. E.g. project.
   page_type = "project"
- dn,cnc 
+  
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
   # To show all items, set `tag` to "*".
@@ -21,17 +21,17 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
-   [[content.filter_button]]
-     name = "All"
-     tag = "*"
+ #  [[content.filter_button]]
+  #   name = "All"
+   #  tag = "*"
   
-   [[content.filter_button]]
-     name = "Ongoing Projects"
-     tag = "Ongoing Projects"
+  # [[content.filter_button]]
+  #   name = "Ongoing Projects"
+   #  tag = "Ongoing Projects"
   
-   [[content.filter_button]]
-     name = "Research"
-     tag = "Research"
+ #  [[content.filter_button]]
+  #   name = "Research"
+   #  tag = "Research"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
