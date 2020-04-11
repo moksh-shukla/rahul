@@ -100,7 +100,7 @@ directions = "Enter the Faculty Building and Come to 4th Floor"
 office_hours = ["Monday 10:00 to 13:00", "Wednesday 09:00 to 10:00"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://calendly.com"
+appointment_url = ""
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
@@ -108,7 +108,7 @@ contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/mangalr"},
   {icon = "linkedin", icon_pack = "fab", name = "Connect with Me", link = "https://www.linkedin.com/in/rahulmangal/"},
   {icon = "envelope", icon_pack = "fas", name = "Mail me", link = "mailto:mangalr@iitk.ac.in"},
-  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
+  #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
 
