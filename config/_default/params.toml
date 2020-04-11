@@ -93,7 +93,7 @@ address = {street = "451 Faculty Building", city = "Kanpur", region = "IIT Kanpu
 coordinates = {latitude = "37.4275", longitude = "-122.1697"}
 
 # Directions for visitors to locate you.
-directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
+directions = "Enter the Faculty Building and Come to 4th Floor"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
