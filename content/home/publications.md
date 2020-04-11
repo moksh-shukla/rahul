@@ -75,7 +75,7 @@ name = "Link"
 url = "https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.4.083301" 
 
 
-- P. Nath, R. Mangal, F. F. Kohle, S. Chodhury, S. Narayanan, U. B. Wiesner and L. A. Archer, '' Dynamics of nanoparticles in entangled polymer solutions", Langmuir 34(1), (2017). Link
+- P. Nath, R. Mangal, F. F. Kohle, S. Chodhury, S. Narayanan, U. B. Wiesner and L. A. Archer, '' Dynamics of nanoparticles in entangled polymer solutions", Langmuir 34(1), (2017).[I'm a link](https://www.google.com)
 
 
 - R. Mangal, N. Karthik, Y. K. Kim, E. Bukusoglu, U. M. Cordova-Figuerora and N. L. Abbott, '' Active Janus Particles at Interfaces of Liquid Crystals", Langmuir 33 (41), (2017). Link
