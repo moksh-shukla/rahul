@@ -69,7 +69,10 @@ subtitle = ""
 
 
 ---
-- B. Chandra, R. Mangal, D. Das and V. Shankar, ''Instability Driven by shear thinning and elasticity in the flow of concentrated polymer solutions through microtubes", Phys. Rev. Fluids 4, 083301 (2019). name = "Link"  url = "https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.4.083301" 
+- B. Chandra, R. Mangal, D. Das and V. Shankar, ''Instability Driven by shear thinning and elasticity in the flow of concentrated polymer solutions through microtubes", Phys. Rev. Fluids 4, 083301 (2019). 
+[[pages]]
+name = "Link"
+url = "https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.4.083301" 
 
 
 - P. Nath, R. Mangal, F. F. Kohle, S. Chodhury, S. Narayanan, U. B. Wiesner and L. A. Archer, '' Dynamics of nanoparticles in entangled polymer solutions", Langmuir 34(1), (2017). Link
